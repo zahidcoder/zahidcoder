@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidcoder" alt="zahidcoder" /></a> </p>
 
-- 🔭 I’m currently working on **POS Software**
+- 🔭 I’m currently working on **CRM Application**
 
 - 🌱 I’m currently learning **Python Django**
 
-- 👯 I’m looking to collaborate on **Any Exciting project**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 👨‍💻 Some of my projects are available at [https://zahidcoder.netlify.app/](https://zahidcoder.netlify.app/)
 
